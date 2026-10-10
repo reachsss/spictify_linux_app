@@ -1,4 +1,4 @@
-# Spotify & Spicetify Desktop Launcher Setup
+# Spicetify Desktop Launcher Setup
 
 This repository provides a Bash script designed to automate downloading the official Spotify SVG icon and creating an application shortcut (`.desktop`) directly on your Ubuntu Desktop. The launcher runs `spicetify apply` every time it is executed.
 
